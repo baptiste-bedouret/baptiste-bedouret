@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Computer Vision, image and sound processing, Virtual Reality, 3D...
+
+
 <!--
 **baptiste-bedouret/baptiste-bedouret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
